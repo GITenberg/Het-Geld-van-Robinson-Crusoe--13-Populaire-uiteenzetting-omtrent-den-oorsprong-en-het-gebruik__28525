@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '33381'
     url: http://www.gutenberg.org/2009/agents/33381
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28525#Het-Geld-van-Robinson-Crusoe--13-Populaire-uiteenzetting-omtrent-den-oorsprong-en-het-gebruik_
 gutenberg_issued: '2009-04-06'
 gutenberg_type: Text
 identifiers:
